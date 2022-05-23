@@ -8,7 +8,7 @@ JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
 ➡️ **https://jupyterlite.github.io/demo**
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
+➡️ **https://jupyterlite.github.io/DereksFolder**
 
 ## Requirements
 
@@ -25,11 +25,6 @@ This repository provides a demonstration of how to:
 - deploy the release to GitHub Pages.
 
 The process is automated using Github Actions.
-
-You can use this repository in two main ways:
-
-- generate a new repository from this template repository and build and deploy your own site to the corresponding Github Pages site;
-- build a release from a PR made to this repository and download the release from the created GitHub Actions artifact.
 
 ### Using Your Own Repository to Build a Release and Deploy it to Github Pages
 
