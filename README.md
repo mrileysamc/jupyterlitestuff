@@ -6,9 +6,7 @@ JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
 ## ✨ Try it in your browser ✨
 
-➡️ **https://jupyterlite.github.io/demo**
-
-➡️ **https://jupyterlite.github.io/DereksFolder**
+➡️ **https://mrileysamc.github.io/jupyterlitestuff/lab?path=dereksfolder%2Fxkcd_plot.ipynb**
 
 ## Requirements
 
