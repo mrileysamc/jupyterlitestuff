@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-05-23T17:27:23.559775Z",
+      "created": "2022-05-23T17:34:29.753375Z",
       "format": null,
-      "last_modified": "2022-05-23T17:26:16.091261Z",
+      "last_modified": "2022-05-23T17:32:59.939755Z",
       "mimetype": "text/csv",
       "name": "data.csv",
       "path": "dereksfolder/data.csv",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-05-23T17:27:23.559775Z",
+      "created": "2022-05-23T17:34:29.753375Z",
       "format": null,
-      "last_modified": "2022-05-23T17:26:16.091261Z",
+      "last_modified": "2022-05-23T17:32:59.939755Z",
       "mimetype": null,
       "name": "xkcd_plot.ipynb",
       "path": "dereksfolder/xkcd_plot.ipynb",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-05-23T17:27:23.559775Z",
+      "created": "2022-05-23T17:34:29.753375Z",
       "format": null,
-      "last_modified": "2022-05-23T17:26:16.091261Z",
+      "last_modified": "2022-05-23T17:32:59.939755Z",
       "mimetype": "text/markdown",
       "name": "index.md",
       "path": "dereksfolder/index.md",
@@ -37,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2022-05-23T17:27:23.559775Z",
+  "created": "2022-05-23T17:34:29.753375Z",
   "format": "json",
-  "last_modified": "2022-05-23T17:27:23.559775Z",
+  "last_modified": "2022-05-23T17:34:29.753375Z",
   "mimetype": null,
   "name": "dereksfolder",
   "path": "dereksfolder",
