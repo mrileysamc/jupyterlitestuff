@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-05-23T17:46:29.431187Z",
+      "created": "2022-05-23T18:01:52.321146Z",
       "format": null,
-      "last_modified": "2022-05-23T17:45:08.852362Z",
+      "last_modified": "2022-05-23T18:00:31.980699Z",
       "mimetype": "text/plain",
       "name": "foo.txt",
       "path": "dereksfolder2/foo.txt",
@@ -13,9 +13,9 @@
       "writable": true
     }
   ],
-  "created": "2022-05-23T17:46:29.431187Z",
+  "created": "2022-05-23T18:01:52.321146Z",
   "format": "json",
-  "last_modified": "2022-05-23T17:46:29.431187Z",
+  "last_modified": "2022-05-23T18:01:52.321146Z",
   "mimetype": null,
   "name": "dereksfolder2",
   "path": "dereksfolder2",
