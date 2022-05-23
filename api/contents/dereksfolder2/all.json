@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-05-23T17:46:29.431187Z",
+      "format": null,
+      "last_modified": "2022-05-23T17:45:08.852362Z",
+      "mimetype": "text/plain",
+      "name": "foo.txt",
+      "path": "dereksfolder2/foo.txt",
+      "size": 17,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-05-23T17:46:29.431187Z",
+  "format": "json",
+  "last_modified": "2022-05-23T17:46:29.431187Z",
+  "mimetype": null,
+  "name": "dereksfolder2",
+  "path": "dereksfolder2",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
